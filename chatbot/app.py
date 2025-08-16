@@ -27,9 +27,9 @@ user_input = st.text_input("Enter your question here:")
 
 ## LLM (Ollama)
 # Make sure Ollama is installed and running locally
-# Example: ollama pull llama3
+# Example: ollama pull llama2
 llm = ChatOllama(
-    model="llama3",  # change to any local model you have pulled
+    model="llama2",  # change to any local model you have pulled
     temperature=0
 )
 
