@@ -22,3 +22,6 @@ The CPU is responsible for:
 
 In simple terms, the CPU is the "brain" of your computer, responsible for executing instructions, performing calculations, and managing memory and I/O operations.
 
+
+
+<img width="815" height="631" alt="image" src="https://github.com/user-attachments/assets/cece26ad-dff7-452a-9a99-43dd89cea326" />
