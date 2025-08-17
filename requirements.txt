@@ -11,5 +11,7 @@ langchain-core
 langchain-openai
 langchain-community
 sse-starlette
-
+bs4
+pypdf
+chormadb
 
